@@ -10,8 +10,8 @@ but implemented at the kernel-level), and other security considerations.
 
 ### Supporting Materials 
 
-* [Powerpoint Presentation](https://github.com/mad-ent-java-s22/student/blob/main/ProfessionalDevelopmentPresentations/BillAnderson/Presentation/FreeBSD%20server.pptx)
-* [Jails diagram](https://github.com/mad-ent-java-s22/student/blob/main/ProfessionalDevelopmentPresentations/BillAnderson/Presentation/Jails%20diagram.png) 
+* [Powerpoint Presentation](FreeBSD%20server.pptx)
+* [Jails diagram](Jails%20diagram.png) 
 * [FreeBSD website](https://www.freebsd.org/)
 * [History of Unix, BSD, and FreeBSD (FreeBSD foundation website)](https://freebsdfoundation.org/freebsd/timeline/#:~:text=FreeBSD%20Foundation%20Founded&text=Funding%20comes%20from%20individual%20and,Gibbs%20on%20March%2015%2C%202000.)
 
