@@ -1,4 +1,6 @@
-# Student Presentation Topic Will Go Here
+# FreeBSD server
+
+Spring 2022 Enterprise Java, Professional Development Presentation
 
 ### Presentation Description/Overview
 
@@ -19,5 +21,8 @@ but implemented at the kernel-level), and other security considerations.
 
 [Link to the peer feedback form](Feedback.md)
 
+
+## Diagram of the "Jails" setup
+Note: This can be a little overwhelming at first.  Maybe start by checking out the key in the lower right-hand corner.
 
 ![FreeBSD "jails" diagram](Jails%20diagram.png)
