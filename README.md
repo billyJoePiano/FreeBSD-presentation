@@ -20,4 +20,4 @@ but implemented at the kernel-level), and other security considerations.
 [Link to the peer feedback form](Feedback.md)
 
 
-[FreeBSD "jails" diagram](Jails%20diagram.png)
+[Jails%20diagram.png]
