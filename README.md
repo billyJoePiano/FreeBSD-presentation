@@ -17,6 +17,10 @@ but implemented at the kernel-level), and other security considerations.
 * [FreeBSD website](https://www.freebsd.org/)
 * [History of Unix, BSD, and FreeBSD (FreeBSD foundation website)](https://freebsdfoundation.org/freebsd/timeline/#:~:text=FreeBSD%20Foundation%20Founded&text=Funding%20comes%20from%20individual%20and,Gibbs%20on%20March%2015%2C%202000.)
 
+### Public-facing websites
+* https://wisconsincheeseclub.com/
+* https://068-190-112-250.res.spectrum.com:4444/
+
 ### Feedback
 
 [Link to the peer feedback form](Feedback.md)
