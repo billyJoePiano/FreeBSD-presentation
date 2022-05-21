@@ -27,6 +27,6 @@ but implemented at the kernel-level), and other security considerations.
 
 
 ## Diagram of the "Jails" setup
-Note: This can be a little overwhelming at first.  Maybe start by checking out the key in the lower right-hand corner.
+Note: This can be a little overwhelming at first.  The best place to start is the key in the lower right-hand corner.
 
 ![FreeBSD "jails" diagram](Jails%20diagram.png)
