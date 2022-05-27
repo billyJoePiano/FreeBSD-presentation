@@ -19,7 +19,7 @@ but implemented at the kernel-level), and other security considerations.
 
 ### Public-facing websites, hosted on my FreeBSD server
 * https://wisconsincheeseclub.com/
-* https://068-190-112-250.res.spectrum.com:4444/
+* https://068-190-112-250.res.spectrum.com:4343/
 
 ### Feedback
 
